@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "ocean theme for colorshelll",
   "main": "index.mjs",
+  "type": "module",
   "scripts": {
     "test": "node index.mjs"
   },
   "bin": {
-    "colorocean": "bin/colorocean"
+    "colorocean": "./bin/colorocean.js"
   },
   "files": [
     "bin",
