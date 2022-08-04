@@ -13,7 +13,7 @@
     "bin",
     "node_modules",
     "index.mjs",
-    "LICENSE.md"
+    "LICENSE"
   ],
   "repository": {
     "type": "git",
