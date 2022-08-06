@@ -1,6 +1,6 @@
 {
   "name": "colorocean",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ocean theme for colorshelll",
   "main": "index.mjs",
   "type": "module",
